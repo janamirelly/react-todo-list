@@ -1,4 +1,3 @@
-![](thumbnail.png)
 
 # App de Checklist de Estudos
 
